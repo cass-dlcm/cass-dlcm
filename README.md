@@ -1,11 +1,12 @@
 ##### I’m currently working on
 
-My voice marketplace web app. I'm planning on making it into a commercial service. See [github:cassdelacruzmunoz/voice-marketplace](https://github.com/cassdelacruzmunoz/voice-marketplace) or [devpost:voice-marketplace](https://devpost.com/software/voice-marketplace) for details.
+Splatstats. It's a tool for finding trends and such out of the stat.ink dataset of match results.
+Please email me if you'd like the data, that way you don't have to query it all from the server very slowly.
 
 ##### I’m currently learning
 
-I'm in Uni, taking 2 classes directly related to my major this semester.
-Those classes are **Fundamentals of Software Testing** (FIU CEN4072) and **Systems Programming** (FIU COP4338).
+I'm in Uni, taking 3 classes related to my major.
+Those classes are **Natural Language Processing** (FIU CAP 4641), **Computer Architecture** (FIU CDA 3102), and **Statistics and Probability for CS Majors** (FIU STA 3033).
 
 ##### Pronouns:
 
