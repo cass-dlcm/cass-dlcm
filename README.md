@@ -5,8 +5,8 @@ Please email me if you'd like the data, that way you don't have to query it all 
 
 ##### I’m currently learning
 
-I'm in Uni, taking 3 classes related to my major.
-Those classes are **Natural Language Processing** (FIU CAP 4641), **Computer Architecture** (FIU CDA 3102), and **Statistics and Probability for CS Majors** (FIU STA 3033).
+I'm in Uni, taking 2 classes related to my major.
+Those classes are **Computer Architecture** (FIU CDA 3102) and **Statistics and Probability for CS Majors** (FIU STA 3033).
 
 ##### Pronouns:
 
