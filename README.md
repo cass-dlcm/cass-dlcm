@@ -1,17 +1,16 @@
 ##### I’m currently working on
 
-Splatstats. It's a tool for finding trends and such out of the stat.ink dataset of match results.
-Please email me if you'd like the data, that way you don't have to query it all from the server very slowly.
+[SplatStats](https://github.com/cass-dlcm/splatstats). It's a website for storing and analyzing Splatoon 2 match results and Salmon Run results. Currently in a open alpha, visible at [splatstats.cass-dlcm.dev](https://splatstats.cass-dlcm.dev/two_battles)
 
 ##### I’m currently learning
 
-I'm in Uni, taking 2 classes related to my major.
-Those classes are **Computer Architecture** (FIU CDA 3102) and **Statistics and Probability for CS Majors** (FIU STA 3033).
+I'm in Uni, going for a combined BS and MS in Computer Science.
+I'm currently taking the class **Logic for Computer Science** (FIU COT 3541).
 
 ##### Pronouns:
 
-My pronouns are the [fae/faer neopronoun set](http://pronoun.is/fae).
+My pronouns are singular they/them.
 
 ##### How to reach me:
 
-You can email me at cassandra.delacruzmunoz@gmail.com.
+You can email me at me@cass-dlcm.dev, on Twitter at [@cass_dlcm](https://twitter.com/cass_dlcm), or on LinkedIn with the username [cass-dlcm](https://www.linkedin.com/in/cass-dlcm/).
