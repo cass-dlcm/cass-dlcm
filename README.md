@@ -1,11 +1,10 @@
 ##### I’m currently working on
 
-[SplatStats](https://github.com/cass-dlcm/splatstats). It's a website for storing and analyzing Splatoon 2 match results and Salmon Run results. Currently in a open alpha, visible at [splatstats.cass-dlcm.dev](https://splatstats.cass-dlcm.dev/two_battles)
+[SplatStats](https://github.com/cass-dlcm/splatstats-go). It's a website for storing and analyzing Splatoon 2 match results and Salmon Run results. Currently in a open alpha, visible at [splatstats.cass-dlcm.dev](https://splatstats.cass-dlcm.dev/two_battles)
 
 ##### I’m currently learning
 
 I'm in Uni, going for a combined BS and MS in Computer Science.
-I'm currently taking the class **Logic for Computer Science** (FIU COT 3541).
 
 ##### Pronouns:
 
