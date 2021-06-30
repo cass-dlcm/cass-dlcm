@@ -1,6 +1,6 @@
 ##### I’m currently working on
 
-[SplatStats](https://github.com/cass-dlcm/splatstats-go). It's a website for storing and analyzing Splatoon 2 match results and Salmon Run results. Currently in a open alpha, visible at [splatstats.cass-dlcm.dev](https://splatstats.cass-dlcm.dev/two_battles)
+[SplatStats](https://github.com/cass-dlcm/splatstatsgo). It's a website for storing and analyzing Splatoon 2 match results and Salmon Run results. Currently in a open alpha, visible at [splatstats.cass-dlcm.dev](https://splatstats.cass-dlcm.dev/two_battles)
 
 ##### I’m currently learning
 
