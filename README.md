@@ -1,6 +1,6 @@
 ##### I’m currently working on
 
-[Stidy](https://github.com/cass-dlcm/pomodoro-tasks). It's a website for managing a todo list, and also has a built-in Pomodoro timer.)
+[Stidy](https://github.com/cass-dlcm/stidy). It's a website for managing a todo list, and also has a built-in Pomodoro timer.)
 
 ##### I’m currently learning
 
