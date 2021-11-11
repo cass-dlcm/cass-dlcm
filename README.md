@@ -1,6 +1,6 @@
 ##### I’m currently working on
 
-[Stidy](https://github.com/cass-dlcm/stidy). It's a website for managing a todo list, and also has a built-in Pomodoro timer.)
+Nothing at the moment, but Knight Hacks 2021 starts tomorrow, and I've got an idea planned for that.
 
 ##### I’m currently learning
 
