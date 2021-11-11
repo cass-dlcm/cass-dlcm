@@ -1,6 +1,6 @@
 ##### I’m currently working on
 
-Nothing at the moment, but Knight Hacks 2021 starts tomorrow, and I've got an idea planned for that.
+Nothing at the moment, but Knight Hacks 2021 starts tomorrow (Friday, November 12th, 2021), and I've got an idea planned for that.
 
 ##### I’m currently learning
 
