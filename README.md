@@ -1,6 +1,6 @@
 ##### I’m currently working on
 
-A visual novel for NaNo
+A visual novel for NaNoRenO
 
 ##### I’m currently learning
 
