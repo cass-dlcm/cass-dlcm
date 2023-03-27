@@ -1,6 +1,6 @@
 ##### I’m currently working on
 
-A visual novel for NaNoRenO
+Finding a job!
 
 ##### I’m currently learning
 
@@ -12,4 +12,4 @@ My pronouns are fae/faer, or alternatively they/them.
 
 ##### How to reach me:
 
-You can email me at [me@cass-dlcm.dev](mailto:me@cass-dlcm.dev), message me on Twitter at [@cass_dlcm](https://twitter.com/cass_dlcm), message me on LinkedIn at [cass-dlcm](https://www.linkedin.com/in/cass-dlcm/), message me on Discord at @cass_dlcm#6646, message me on the Fediverse at [@cass_dlcm@dariox.club](https://dariox.club/@cass_dlcm), or message me on Matrix at [@me:cass-dlcm.dev](https://matrix.to/#/@me:cass-dlcm.dev).
+You can email me at [me@cass-dlcm.dev](mailto:me@cass-dlcm.dev), message me on Twitter at [@cass_dlcm](https://twitter.com/cass_dlcm), message me on LinkedIn at [cass-dlcm](https://www.linkedin.com/in/cass-dlcm/), message me on Discord at @cass_dlcm#6646, or message me on the Fediverse at [@cass_dlcm@dariox.club](https://dariox.club/@cass_dlcm).
