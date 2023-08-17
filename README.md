@@ -1,8 +1,14 @@
 ##### I’m currently working on
 
-Finding a job!
+A set of C# libraries for use in the Godot Engine for communicating with other software using OpenSoundControl and VirtualMotionCapture.
+* [godotOscSharp](https://github.com/cass-dlcm/godotOscSharp)
+* [godotVmcSharp](https://github.com/cass-dlcm/godotVmcSharp)
+
+Also, I'm trying to find a job!
 
 ##### I’m currently learning
+
+Well, I'm getting practical experience with C# through my current project.
 
 I recently graduated from FIU with a BS in Computer Science.
 
