@@ -12,4 +12,4 @@ My pronouns are fae/faer, or alternatively they/them.
 
 ##### How to reach me:
 
-You can email me at [me@ka-so.me](mailto:me@ka-so.me), message me on LinkedIn at [ka-so](https://www.linkedin.com/in/ka-so), or message me on the Fediverse at [@techie@gts.ka-so.me](https://gts.ka-so.me/@techie).
+You can email me at [me@ka-so.me](mailto:me@ka-so.me), message me on LinkedIn at [ka-so](https://www.linkedin.com/in/ka-so), or message me on Matrix at [@ka_so:matrix.ka-so.me](https://matrix.to/#/@ka_so:matrix.ka-so.me).
