@@ -1,16 +1,10 @@
-##### I’m currently working on
+##### My current personal development project is
 
-A set of C# libraries for use in the Godot Engine for communicating with other software using OpenSoundControl and VirtualMotionCapture.
-* [godotOscSharp](https://gitea.cass-dlcm.dev/cassdlcm/godotOscSharp)
-* [godotVmcSharp](https://gitea.cass-dlcm.dev/cassdlcm/godotVmcSharp)
+Building a website for myself, with a custom rust-based static site generator.
 
-Also, I'm trying to find a job!
+##### What I'm doing for work
 
-##### I’m currently learning
-
-Well, I'm getting practical experience with C# through my current project.
-
-I recently graduated from FIU with a BS in Computer Science.
+back-end engineering of a VoIP SaaS product.
 
 ##### Pronouns:
 
@@ -18,4 +12,4 @@ My pronouns are fae/faer, or alternatively they/them.
 
 ##### How to reach me:
 
-You can email me at [me@cass-dlcm.dev](mailto:me@cass-dlcm.dev), message me on LinkedIn at [cass-dlcm](https://www.linkedin.com/in/cass-dlcm), or message me on the Fediverse at [@cass_dlcm@dariox.club](https://dariox.club/@cass_dlcm).
+You can email me at [me@ka-so.me](mailto:me@ka-so.me), message me on LinkedIn at [cass-dlcm](https://www.linkedin.com/in/cass-dlcm), or message me on the Fediverse at [@techie@gts.ka-so.me](https://gts.ka-so.me/@techie).
